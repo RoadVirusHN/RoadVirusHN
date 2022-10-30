@@ -1,5 +1,10 @@
 <div class="about-content">
+            <blockquote>
+            <i>"Our greatest glory is not in never failing, but in rising up every time we fail."</i>
+            <br>- Ralph Waldo Emerson
+        </blockquote>
     <div class="klutz-section">
+        <img src="https://user-images.githubusercontent.com/52690486/198877179-e9e1aad9-d71b-484d-bfe7-8ebb518115ee.png" width="250px" height="auto" style="margin: auto;">
     </div>
     <div>
         <h1 style="font-size:xx-large; margin: 0;">
@@ -21,7 +26,7 @@
         <comment>// contact me</comment>
         <br>
         <h4 class="about-section">My experiences</h3>
-        <strong>Javascript, Python, Typescript, Django, Express.js, Docker, React, Vue, AWS, MySQL, Jenkins, Jekyll, GIT, PyTorch</strong>
+        <img src="https://user-images.githubusercontent.com/52690486/198877075-5f7ebf15-0cba-40d0-bc2d-f806e8704896.png">
         // more details in portfolio
 </div>
 <div style="display: flex; flex-direction: row;  margin: auto;">
