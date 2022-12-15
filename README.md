@@ -40,7 +40,7 @@
                 I'm a Fullstack web developer wannabie.🧑‍💻
             </li>
             <li>
-                My goal is the innovations✨ about WEB and AI.
+                My goal is bringing the innovations✨ about WEB and AI.
             </li>
             <li>
                 I'm passionate about learning new techs.❤️‍🔥
@@ -51,14 +51,14 @@
         <h4 class="about-section">Still curious?</h4>
         <ul>
             <li>
-                <img src="https://img.shields.io/badge/%F0%9F%99%8B%F0%9F%8F%BDMBTI-INFP--a-orange">
+                <img src="https://img.shields.io/badge/%F0%9F%99%8B%F0%9F%8F%BDMBTI-INTP--a-orange">
                 <comment>// though I don't mind it.</comment>
             </li>
             <li>
-                A nerd from south korea🇰🇷.
+                A nerd from south korea 🇰🇷.
             </li>
             <li>
-                I love playing games🎮. <comment>// especially indie games.</comment>
+                I love to play games🎮. <comment>// especially indie games.</comment>
             </li>
             <li>
                 👨‍👩‍👧‍👦 I love my families, friends and you!👍🏽
@@ -71,7 +71,7 @@
         <img style="margin: 3px;" class="badge" title="https://github.com/RoadVirusHN"
         src="https://img.shields.io/badge/github-roadviurshn-lightgrey?style=for-the-badge&logo=github">
     </a>
-    <a class="badge-anchor" href="https://luminous-bubblegum-8e9be4.netlify.app">
+    <a class="badge-anchor" href="https://roadvirushn.github.io/">
         <img style="margin: 3px;" class="badge" title="Digital garden of Nurgle"
         src="https://img.shields.io/badge/blog-roadviurshn-yellow?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAABmFBMVEWRkQD39wAHBwAAAAABAQECAgACAgIDAwAFBQUHBwAHBwcICAAJCQkKCgoLCwANDQANDQ0ODg4QEAAQEBATEwATExMUFAAWFgAWFhYbGxscHAAdHQAeHh4jIyMkJCQmJgAmJiYnJwAqKiotLQAtLS0uLiUxMTE1NQA2NgA2NjY4ODg6OgA6Ojo7OwA8PDw9PT0+Pj4/Pz9AQEBBQUBERABFRT5KSgBPTztQUABQUDtTUzlVVTlXVwBZWQBaWgBbWwBcXDdfXzZjYwBmZjNnZwBpaQBrazJtbQBxcQBxcTBzcwB6ei17ewB9fQB+fgCDgwCGhgCJiQCTkwCUlACWlgCZmQCbmwCfnyCgoCCkpAClpQCpqQCqqgCtrRuvrxuwsACwsBqxsQC2tgC8vAC+vgDCwhTDwwDGxgDHxwDIyADJyQDKygDLywDMzADNzQDOzgDPzwDQ0ADS0gDU1ADV1QDW1gDX1wDZ2QDb2wDd3QDg4ADm5gDp6QDt7QDu7gDv7wDv7wX29gP4+AL7+wD8/AH9/QH+/gD//wD3Z8RCAAAAA3RSTlP39/5LBQnqAAABHElEQVQoz6XOZVsCQRQF4MUjKq4dgIktCtbaXdhd2B3Yqxio2LHzt51hB1hYv3k+3ee8M8+9ghSZOmuZOgiSNLbVHOqd6Ygt4tD+MRjqq5JAk6/CxHdjsK9IQCDWegb9SgfvS+LAk1nLdqxsqn0BwkmupiB1suUNOdAmUQiemY3IcHCm4W8opOP244Pv/vbGey1fnJ14NHBKtPknKHdHZN82qwNXLnqf7LAsRsNc/NVQcZ5tfu0tCl795ByY8ix96Zd7AfvAnl8H8ipSRiphcmvA2PZMDlKRNeM4NneFf5S7fIRsmIDJGnQDLxxal9/pmwUj4HADPcBlAPp2Ptnh03RNhmyBuQXYpTB8+MNqZVykWR8VxaZSMUYwGH4B9yKA4wuitScAAAAASUVORK5CYII=">
     </a>
