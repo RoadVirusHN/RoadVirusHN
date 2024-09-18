@@ -25,7 +25,7 @@
         </a>
         <comment>// contact me</comment>
         <br>
-        <h4 class="about-section">My experiences</h3>
+        <h4 class="about-section">My skills</h3>
         <img src="https://user-images.githubusercontent.com/52690486/236654144-4989d7e9-58b9-4567-8dda-2ec53e728136.png" width="640px">
         // more details in portfolio
 </div>
@@ -37,13 +37,13 @@
                 Learn✍️ coding from <a href="https://ssafy.com">SSAFY</a> and <a href="https://boostcamp.connect.or.kr/program_ai.html">boostcamp AI Tech</a>.
             </li>
             <li>
-                I'm a Fullstack web developer wannabie.🧑‍💻
+                Currently, <a href="https://nsis.co.kr/en/">NSIS</a> JAVA Backend Developer.
             </li>
             <li>
-                My goal is bringing the innovations✨ about WEB and AI.
+                My goal is bringing the innovations✨ in WEB and AI.
             </li>
             <li>
-                I'm passionate about learning new techs.❤️‍🔥
+                I'm passionate about learning new Things.❤️‍🔥
             </li>
         </ul>
     </div>
@@ -52,13 +52,13 @@
         <ul>
             <li>
                 <img src="https://img.shields.io/badge/%F0%9F%99%8B%F0%9F%8F%BDMBTI-INTP--a-orange">
-                <comment>// though I don't mind it.</comment>
+                <comment>// Though I don't mind it.</comment>
             </li>
             <li>
                 A nerd from south korea 🇰🇷.
             </li>
             <li>
-                I love to play games🎮. <comment>// especially indie games.</comment>
+                I love to play games🎮. <comment>// especially indies.</comment>
             </li>
             <li>
                 👨‍👩‍👧‍👦 I love my families, friends and you!👍🏽
