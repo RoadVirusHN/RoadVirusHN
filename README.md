@@ -11,7 +11,7 @@
             Hi<span class="hand">👋🏽</span>, I'm <strong class="name">JUNSEOK YUN</strong>. 
         </h1>
         <h4 style="margin-bottom: 0;">a.k.a <i class="name">RoadvirusHN</i>.</h4> //better profile in <a href="https://roadvirushn.github.io/">HERE</a> 
-        <h3><a target="_blank" href="https://nsis.co.kr/en/">NSIS</a> JAVA Backend Developer (2023.09 ~)<a target="_blank" href="https://nsis.co.kr/en/"><img src="https://github.com/user-attachments/assets/62aacd04-e6f1-430f-a2a2-9c20da5e81f5" width="45px" ></a></h3>
+        <h3><a target="_blank" href="https://nsis.co.kr/en/">SIS</a> JAVA Backend Developer (2023.09 ~)<a target="_blank" href="https://nsis.co.kr/en/"><img src="https://github.com/user-attachments/assets/62aacd04-e6f1-430f-a2a2-9c20da5e81f5" width="45px" ></a></h3>
         <h3 style="margin: 3px 0;"><strong>I fell in ❤️ with <span style="
             text-decoration: rgb(109, 109, 109) wavy underline">WEB🌐 programming </span>and I'm also intersted in
                 <span style="
@@ -39,7 +39,7 @@
                 Learn✍️ coding from <a target="_blank" href="https://ssafy.com">SSAFY</a> and <a target="_blank" href="https://boostcamp.connect.or.kr/program_ai.html">boostcamp AI Tech</a>.
             </li>
             <li>
-                Currently, <a target="_blank" href="https://nsis.co.kr/en/">NSIS</a> JAVA Backend Developer. <a target="_blank" href="https://nsis.co.kr/en/"><img src="https://github.com/user-attachments/assets/62aacd04-e6f1-430f-a2a2-9c20da5e81f5" width="45px" ></a>
+                Currently, <a target="_blank" href="https://nsis.co.kr/en/">SIS</a> JAVA Backend Developer. <a target="_blank" href="https://nsis.co.kr/en/"><img src="https://github.com/user-attachments/assets/62aacd04-e6f1-430f-a2a2-9c20da5e81f5" width="45px" ></a>
             </li>
             <li>
                 My goal is bringing the innovations✨ in WEB and AI.
